@@ -1,0 +1,26 @@
+body{
+	font-family: source sans pro;
+	font-weight: 400;
+	border: 20px solid #dbc3c7;
+	margin: 10%;
+	padding: 5%;
+	text-align: left;
+}
+h2{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	
+}
+h1{
+	color: #2c3e50;
+	font-size: 2.0rem; 
+
+}
+hr{
+	border: 1px solid #bdc3c7;
+}
+.special{
+	border-left: 4px solid #bdc3c7;
+	padding-left: 5px
+}
